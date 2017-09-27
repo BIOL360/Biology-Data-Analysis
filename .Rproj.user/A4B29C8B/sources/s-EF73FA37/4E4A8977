@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "2247498072",
     "id" : "4E4A8977",
-    "lastKnownWriteTime" : 1506481980,
-    "last_content_update" : 1506481980,
+    "lastKnownWriteTime" : 1506482049,
+    "last_content_update" : 1506482049473,
     "path" : "~/GitHub/semester-biology/_config.yml",
     "project_path" : "_config.yml",
     "properties" : {
-        "cursorPosition" : "11,47",
-        "scrollLine" : "0"
+        "cursorPosition" : "11,55",
+        "scrollLine" : "3"
     },
     "relative_order" : 1,
     "source_on_save" : false,
