@@ -11,16 +11,16 @@ permalink:        pretty
 # Setup
 title:            Data Carpentry for Biologists and Me!
 description:      'Teaching the tools to get computers to do cool science'
-url:              http://www.datacarpentry.org/semester-biology
+url:              http://BIOL360.github.io/semester-biology
 baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
+email:            CliftonFranklund@ferris.edu
 feedbackurl:      polleverywhere.com/multiple_choice_polls/KznOEBvSAnahmt7
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'Dr. Clifton Franklund'
+  url:            https://twitter.com/Dr_Franklund
 
 github:
-  repo:           https://github.com/datacarpentry/semester-biology
+  repo:           https://github.com/BIOL360/semester-biology
   #               Be sure the 'Issues' feature is activated in 'Settings'
 
 theme: jekyll-theme-minimal
