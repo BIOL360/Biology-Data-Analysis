@@ -9,8 +9,8 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry for Biologists and Me!
-description:      'Teaching the tools to get computers to do cool science'
+title:            Analysis of Experimental Data
+description:      'Using the tools of a modern biologist'
 url:              http://BIOL360.github.io/semester-biology
 baseurl:          /semester-biology
 email:            CliftonFranklund@ferris.edu
