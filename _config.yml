@@ -11,8 +11,8 @@ permalink:        pretty
 # Setup
 title:            Analysis of Experimental Data
 description:      'Using the tools of a modern biologist'
-url:              http://BIOL360.github.io/semester-biology
-baseurl:          /semester-biology
+url:              http://BIOL360.github.io/spring2018
+baseurl:          /spring2018
 email:            CliftonFranklund@ferris.edu
 feedbackurl:      polleverywhere.com/multiple_choice_polls/KznOEBvSAnahmt7
 author:
