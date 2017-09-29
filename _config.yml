@@ -9,8 +9,8 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Analysis of Experimental Data
-description:      'Using the tools of a modern biologist'
+title:            Experimental Design and Data Analysis
+description:      'Using the computer tools of a modern biologist'
 url:              http://BIOL360.github.io/spring2018
 baseurl:          /spring2018
 email:            CliftonFranklund@ferris.edu
@@ -22,5 +22,3 @@ author:
 github:
   repo:           https://github.com/BIOL360/semester-biology
   #               Be sure the 'Issues' feature is activated in 'Settings'
-
-theme: jekyll-theme-merlot
