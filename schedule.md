@@ -1,12 +1,7 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['Data Entry and Storage', 'Database Queries',
-'Introduction to R and RStudio', 'Working with Data', 'Data Visualization',
-'Projects Version Control and Structure', 'Project Week', 'Working with Spatial Data',
-'Working with Spatial Data 2', 'Programming Fundamentals 1',
-'Programming Fundamentals 2', 'Project Week', 'Working with Databases',
-'Knitr', 'Project Week', 'Project Week']
+assignments: ['Orientation and software set up', 'Experimental design principles', 'Introduction to R and RStudio', 'R Markdown and project organization', 'Working with tidy data', 'Introduction to version control', 'Database essentials', 'Programming fundamentals', 'Exploratory statistics', 'More statistics', 'Data visualization', 'Collaborating using version control', 'Data modeling', 'Reference management', 'Making presentations with RStudio', 'Project presentations']
 ---
 
 {% include assignments.html %}
