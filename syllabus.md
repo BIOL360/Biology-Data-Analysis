@@ -1,18 +1,17 @@
 ---
 layout: page
 title: Syllabus
-catalog: WIS 6934
-credits: 3
-semester: Fall 2017
-professor: Dr. Ethan White and Kristina Riemer
-office: Room 1 in Building 150 (just north of Newins-Zeigler)
-email: ethanwhite@ufl.edu
-phone: 352-294-2081
+catalog: BIOL 390
+credits: 2
+semester: Summer 2018
+professor: Dr. Clifton Franklund
+office: ASC 2011
+email: CliftonFranklund@ferris.edu
+phone: 231-591-2552
 schedule: ['Tuesdays, 4:05-4:55, 222 Newins-Ziegler Hall',
            'Fridays, 11:45-1:40, 219 Newins-Ziegler Hall']
 office_hours: by appointment
-TA: Andrew Marx
-TA_email: andrewjmarx@ufl.edu
+
 ---
 
 ## {{ site.title }} 
@@ -25,8 +24,8 @@ TA_email: andrewjmarx@ufl.edu
 
 Office: {{ page.office }}
 
-Email (best way to contact us):
-[{{ page.email }}](mailto:{{ page.email }}), [kristina.riemer@ufl.edu](mailto:kristina.riemer@ufl.edu)
+Email (best way to contact me):
+[{{ page.email }}](mailto:{{ page.email }})
 
 Phone: {{ page.phone }}
 
@@ -46,16 +45,9 @@ Times: {{ page.office_hours }}
 
 Location: {{ page.office }}
 
-*Note: my schedule gets very busy during the semester so please try to schedule
+*Note: my schedule gets very irregular during the semester so please try to schedule
 appointments as far in advance as possible. In general it will be very difficult
 to set up appointments less than 24 hours in advance.*
-
-
-### Course TA
-
-{{ page.TA }}
-
-Email: [{{ page.TA_email }}](mailto:{{ page.TA_email }})
 
 
 ### Website
