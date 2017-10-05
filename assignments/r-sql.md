@@ -1,7 +1,7 @@
 ---
 layout: page
 element: assignment
-title: Integrating R and SQL
+title: Database essentials
 language: R
 exercises: ['Connect and Query', 'Automate Query', 'Export to Database', 'NEON Database', 'Tree Biomass']
 ---
