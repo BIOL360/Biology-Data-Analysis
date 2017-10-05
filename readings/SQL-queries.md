@@ -1,7 +1,7 @@
 ---
 layout: page
 element: reading
-title: Database Queries
+title: Database essentials
 language: SQL
 ---
 

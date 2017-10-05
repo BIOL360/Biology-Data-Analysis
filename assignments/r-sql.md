@@ -2,7 +2,7 @@
 layout: page
 element: assignment
 title: Database essentials
-language: R
+language: SQL
 exercises: ['Connect and Query', 'Automate Query', 'Export to Database', 'NEON Database', 'Tree Biomass']
 ---
 

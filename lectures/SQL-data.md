@@ -1,7 +1,7 @@
 ---
 layout: page
 element: lecture
-title: Data Entry and Storage
+title: Database essentials
 language: SQL
 ---
 

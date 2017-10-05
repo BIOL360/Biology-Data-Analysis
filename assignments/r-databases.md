@@ -1,8 +1,8 @@
 ---
 layout: page
 element: assignment
-title: Working with Databases
-language: R
+title: Database essentials
+language: SQL
 exercises: ['Source and Query', 'Manipulate Query', 'Copy to Database', 'NEON Mammals', 'Tree Biomass']
 ---
 
