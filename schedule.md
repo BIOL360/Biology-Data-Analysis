@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['Orientation and software set up', 'Experimental design principles', 'Introduction to R and RStudio', 'R Markdown and project organization', 'Working with tidy data', 'Introduction to version control', 'Database essentials', 'Programming fundamentals', 'Exploratory statistics', 'More statistics', 'Data visualization', 'Collaborating using version control', 'Data modeling', 'Reference management', 'Making presentations with RStudio', 'Project presentations']
+assignments: ['Orientation and software set up', 'Experimental design principles', 'Introduction to R and RStudio', 'R Markdown and project organization', 'Working with tidy data', 'Introduction to version control', 'Database essentials', 'Programming fundamentals', 'Exploratory statistics', 'Inferential statistics', 'Data visualization', 'Collaborating using version control', 'Data modeling', 'Reference management', 'Making presentations with RStudio', 'Project presentations']
 ---
 
 {% include assignments.html %}
